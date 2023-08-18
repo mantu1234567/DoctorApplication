@@ -100,5 +100,5 @@ Give a rating if this project help you
 
 ## License
 
-Copyright : 2023 [Saurav Kumar]()
+Copyright : 2023 [Mantu Kumar]()
 This project is [GeekSter](https://www.geekster.in/) license
