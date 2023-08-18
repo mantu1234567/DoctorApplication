@@ -86,10 +86,7 @@ The hospital Management API is a RESTful API developed using Spring Boot, Java, 
 ```
 ## Author
 
-Saurav Kumar
-
-* twiter : [@saurav](https://twitter.com/Sauravjha24)
-* Github : [@sjha](https://github.com/sjha24)
+Mantu Kumar
 
 ## Contributing
 
